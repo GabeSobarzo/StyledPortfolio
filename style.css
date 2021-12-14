@@ -71,6 +71,7 @@ p {
 	float: left;
 	width: 52px;
 	height: 52px;
+	background: img("GitBioPicResize.jpeg")
 		center center no-repeat;
 	background-size: cover;
 	border-radius: 50%;
