@@ -45,7 +45,7 @@ p {
 	position: fixed;
 	height: 350px;
 	width: 100%;
-	background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/565097/background.png")
+	background: url("MountainBackground.jpg")
 		center center no-repeat;
 	background-color: rgb(33,14,61);
 	background-size: cover;
